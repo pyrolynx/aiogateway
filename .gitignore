@@ -1,0 +1,6 @@
+.venv/
+.idea/
+__pycache__/
+aiogateway.egg-info/
+db.sqlite3
+*.pyc
